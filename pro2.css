@@ -16,8 +16,14 @@ font-family:Felix Titling;
 {
     text-align: center;
     font-family: Consolas;
+    font-size: 5px;
 }
 #caption
 {
     color: darkgrey;
+}
+th
+{
+    font-family: fantasy;
+    font-size: 40px;
 }
