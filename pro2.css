@@ -5,13 +5,19 @@ font-size:150px;
 text-align:center; 
 font-family:Freestyle Script;
 }
-h2 
+#cap
 {
-color:grey; 
-    font-size:50px;
+    color:grey; 
+    font-size:110px;
 text-align:center;
 font-family:Felix Titling;
 }
-
-
-    
+.zip
+{
+    text-align: center;
+    font-family: Consolas;
+}
+#caption
+{
+    color: darkgrey;
+}
