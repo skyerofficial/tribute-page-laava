@@ -10,8 +10,8 @@
 ### His poetry and novels
 ---
 ### Contributers to this project are all members of LAAVA
-⋅⋅* Lovneet
-⋅⋅* Aakash
-⋅⋅* Akanksha
-⋅⋅* Vinayak
-⋅⋅* Akshay
+* Lovneet
+* Aakash
+* Akanksha
+* Vinayak
+* Akshay
