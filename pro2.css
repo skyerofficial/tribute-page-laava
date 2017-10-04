@@ -27,3 +27,10 @@ th
     font-family: fantasy;
     font-size: 40px;
 }
+div {
+    border:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right:20px;
+    margin-left:20px;
+}
