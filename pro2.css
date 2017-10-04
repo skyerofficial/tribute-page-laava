@@ -9,9 +9,14 @@ font-family: 'Tangerine', serif;
 {
     color:grey; 
     font-size:110px;
-text-align:center;
-font-family:cursive;
+    text-align:center;
+    font-family:cursive;
 }
+ img{    display:block;
+         margin:0 auto;
+         width:900px;
+         border-radius: 20px;
+            }
 .zip
 {
     text-align: center;
