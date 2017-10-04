@@ -3,19 +3,19 @@ h1
     color:black;
 font-size:150px;
 text-align:center; 
-font-family:Freestyle Script;
+font-family:Comic Sans MS;
 }
 #cap
 {
     color:grey; 
     font-size:110px;
 text-align:center;
-font-family:Felix Titling;
+font-family:Times;
 }
 .zip
 {
     text-align: center;
-    font-family: Consolas;
+    font-family: Bookman;
     font-size: 15px;
 }
 #caption
@@ -24,6 +24,13 @@ font-family:Felix Titling;
 }
 th
 {
-    font-family: fantasy;
+    font-family: Bookman;
     font-size: 40px;
+}
+div {
+    border:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right:20px;
+    margin-left:20px;
 }
