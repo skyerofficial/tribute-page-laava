@@ -12,6 +12,12 @@ font-family: 'Tangerine', serif;
 text-align:center;
 font-family:cursive;
 }
+div {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
 .zip
 {
     text-align: center;
