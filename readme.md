@@ -13,8 +13,8 @@ You can visit this file by this link
  https://github.com/skyerofficial/tribute-page-laava
 
   ### Contributers to this project are all members of LAAVA	
- Lovneet		https://github.com/lovch
- Aakash		  https://github.com/aakash4340
- Akanksha	  https://github.com/kandariakanksha
- Vinayak		https://github.com/vinayakpahuja
+ Lovneet		https://github.com/lovch<br>
+ Aakash		  https://github.com/aakash4340<br>
+ Akanksha	  https://github.com/kandariakanksha<br>
+ Vinayak		https://github.com/vinayakpahuja<br>
  Akshay		  https://github.com/akshaysethi12
