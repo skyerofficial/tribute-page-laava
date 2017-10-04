@@ -3,19 +3,25 @@ h1
     color:black;
 font-size:150px;
 text-align:center; 
-font-family:Freestyle Script;
+font-family: 'Tangerine', serif;
 }
 #cap
 {
     color:grey; 
     font-size:110px;
 text-align:center;
-font-family:Felix Titling;
+font-family:cursive;
+}
+div {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 .zip
 {
     text-align: center;
-    font-family: Consolas;
+    font-family: 'Consolas',Monospaced;
     font-size: 15px;
 }
 #caption
