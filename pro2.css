@@ -3,19 +3,24 @@ h1
     color:black;
 font-size:150px;
 text-align:center; 
-font-family:Freestyle Script;
+font-family: 'Tangerine', serif;
 }
 #cap
 {
     color:grey; 
     font-size:110px;
-text-align:center;
-font-family:Felix Titling;
+    text-align:center;
+    font-family:cursive;
 }
+ img{    display:block;
+         margin:0 auto;
+         width:900px;
+         border-radius: 20px;
+            }
 .zip
 {
     text-align: center;
-    font-family: Consolas;
+    font-family: 'Consolas',Monospaced;
     font-size: 15px;
 }
 #caption
